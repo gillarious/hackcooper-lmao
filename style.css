@@ -45,8 +45,6 @@ input[type=submit]:focus {
 	left:50%;
 	margin-top:-220px;
 	margin-left:-480px;
-	background:transparent;
-
 }
 #footer {
 	position: absolute;
