@@ -9,7 +9,7 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	opacity: 0.3;
+	background-opacity: 0.3;
 }
 img{
 	opacity: 0.3;
