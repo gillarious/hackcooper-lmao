@@ -5,11 +5,11 @@ body {
 }
 html { 
 	background: url("http://content.mycutegraphics.com/backgrounds/hearts/pink-outline-heart-background.gif") no-repeat center center fixed; 
-	background: transparent;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	opacity: 0.2;
 }
 html, body {
 	overflow:hidden
@@ -46,6 +46,7 @@ input[type=submit]:focus {
 	margin-top:-220px;
 	margin-left:-480px;
 	background:transparent;
+	opacity: 1;
 }
 #footer {
 	position: absolute;
