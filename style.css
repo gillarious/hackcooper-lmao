@@ -2,15 +2,16 @@ body {
 	font-family: 'Dosis', sans-serif;
 	font-size: 55px;
 	color: #000;
-	opacity: 1;
 }
 html { 
-	background: url("http://cdn.paper4pc.com/images/heart-background-wallpaper-4.jpg") no-repeat center center fixed; 
+	background: url("pink_rice.png") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	opacity: 0.2;
+}
+img{
+	opacity: 0.3;
 }
 html, body {
 	overflow:hidden
