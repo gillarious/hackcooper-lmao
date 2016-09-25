@@ -5,14 +5,11 @@ body {
 }
 html { 
 	background: url("http://content.mycutegraphics.com/backgrounds/hearts/pink-outline-heart-background.gif") no-repeat center center fixed; 
+	background: rgba(54, 25, 25, .5);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background: rgba(54, 25, 25, .5);
-}
-img{
-	opacity: 0.3;
 }
 html, body {
 	overflow:hidden
